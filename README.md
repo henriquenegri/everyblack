@@ -1,4 +1,4 @@
-# 🚀 Henrique, Ingrid e Marcelo
+# 🚀 Integrantes: Henrique, Ingrid e Marcelo
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="300" alt="Laravel Logo">
@@ -27,10 +27,9 @@ Esta aplicação foi desenvolvida para proporcionar uma experiência de uso mode
 
 ✅ **Autenticação de usuários**  
 ✅ **Gerenciamento de perfis**  
-✅ **Interface intuitiva**  
-✅ **Boas práticas de segurança**  
-✅ **Painel administrativo protegido**  
-
+✅ **Login e Criação de usuários**  
+✅ **Boas práticas de segurança**
+✅ **Landing page estilizada e intuitiva**
 ---
 
 ## ⚙️ Funcionalidades Principais
