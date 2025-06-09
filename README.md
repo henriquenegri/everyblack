@@ -28,7 +28,7 @@ Esta aplicação foi desenvolvida para proporcionar uma experiência de uso mode
 ✅ **Autenticação de usuários**  
 ✅ **Gerenciamento de perfis**  
 ✅ **Login e Criação de usuários**  
-✅ **Boas práticas de segurança**
+✅ **Boas práticas de segurança**  
 ✅ **Landing page estilizada e intuitiva**
 ---
 
